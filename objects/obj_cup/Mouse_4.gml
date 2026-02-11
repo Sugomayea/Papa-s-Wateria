@@ -1,0 +1,3 @@
+if isDraggable {
+	dragging = true
+}

@@ -1,0 +1,12 @@
+audio_sound_gain(mus_order, global.musicVolume)
+audio_sound_gain(mus_pour, global.musicVolume)
+audio_sound_gain(mus_title, global.musicVolume)
+
+audio_sound_gain(snd_buttonDown, global.sfxVolume)
+audio_sound_gain(snd_buttonUp, global.sfxVolume)
+audio_sound_gain(snd_cupEnter, global.sfxVolume)
+audio_sound_gain(snd_cupLeave, global.sfxVolume)
+audio_sound_gain(snd_cupSpawn, global.sfxVolume)
+audio_sound_gain(snd_dayFinish, global.sfxVolume)
+audio_sound_gain(snd_roomChange, global.sfxVolume)
+audio_sound_gain(snd_waterPour, global.sfxVolume)
