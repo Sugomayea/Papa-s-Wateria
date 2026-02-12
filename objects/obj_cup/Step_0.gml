@@ -72,3 +72,5 @@ if image_index == 4 and !stopSetting {
 	moveToNext = true
 	stopSetting = true
 }
+
+roomCupIn = room

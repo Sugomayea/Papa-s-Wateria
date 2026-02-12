@@ -1,0 +1,3 @@
+judging = false
+
+audioHasPlayed = false

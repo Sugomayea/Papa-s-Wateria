@@ -7,3 +7,5 @@ moveToNext = false
 endAnim = true
 
 isDraggable = true
+
+roomCupIn = rm_pourRoom
