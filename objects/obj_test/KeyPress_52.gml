@@ -1,0 +1,1 @@
+global.customersServed = 4

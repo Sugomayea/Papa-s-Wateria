@@ -1,6 +1,4 @@
-instance_create_depth(700, 108, -100, obj_customer)
-
-instance_destroy()
+visible = false
 
 obj_orderSwitch.isUsable = false
 obj_orderSwitch.visible = false

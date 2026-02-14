@@ -28,6 +28,7 @@ if judging = true {
 			}
 			
 			global.cupScore += finalScore
+			global.customersServed += 1
 		
 			audioHasPlayed = true
 		}
@@ -36,6 +37,10 @@ if judging = true {
 			judging = false
 			audioHasPlayed = false
 			global.customerThere = false
+		}
+		
+		if global.customersServed = 5 {
+			alarm[0] = 90
 		}
 	}
 } else {

@@ -1,1 +1,1 @@
-show_debug_message(global.cupToServe)
+show_debug_message(global.customersServed)

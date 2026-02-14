@@ -12,3 +12,4 @@ global.cupToServe = false
 global.cupScore = 0
 global.orderStart = false
 global.customerThere = false
+global.customersServed = 0
